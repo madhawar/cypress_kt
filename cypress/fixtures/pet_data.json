@@ -1,0 +1,13 @@
+{
+    "petUrl": "https://fetch.petsure.com",
+
+    "pet_details": {
+        "name": "Togo",
+        "type": "cat",
+        "gender": "male",
+        "dob_dd": "01",
+        "dob_mm": "02",
+        "dob_yyyy": "2022"
+    }
+
+}

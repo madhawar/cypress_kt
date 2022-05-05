@@ -1,7 +1,7 @@
 {
-    "coreUrl": "core/master/",    
-    
-    "headers": {    
+    "coreUrl": "core/master/",
+
+    "headers": {
         "domain": "WAPP",
         "product": "TRAVEL",
         "business_flow": "APP",

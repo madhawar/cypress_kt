@@ -1,3 +1,5 @@
+/// <reference types="Cypress" />
+
 describe('WAPP > Quote', () => {
     context('Static Tree API', () => {
         let core;
