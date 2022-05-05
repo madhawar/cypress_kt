@@ -1,0 +1,10 @@
+{
+    "coreUrl": "core/master/",    
+    
+    "headers": {    
+        "domain": "WAPP",
+        "product": "TRAVEL",
+        "business_flow": "APP",
+        "operation_flow": "CREATE_FLOW"
+    }
+}
