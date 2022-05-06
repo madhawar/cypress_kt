@@ -1,10 +1,25 @@
 {
     "coreUrl": "core/master/",
 
-    "headers": {
+    "headers": {        
         "domain": "WAPP",
         "product": "TRAVEL",
         "business_flow": "APP",
-        "operation_flow": "CREATE_FLOW"
+        "exalt_api": "",
+        "operation_flow": "CREATE_FLOW",
+        "Content_Type": "application/json"
+    },
+
+    "queryParams": {
+        "domainCode": "",
+        "documentType": "",
+        "category": "",
+        "requestedDate": ""
+    },
+
+    "message": {
+        "STATIC_TREE": "Static tree is retrieved successfully",
+        "STATIC_DOCUMENT": "Document is retrieved successfully"
     }
+
 }

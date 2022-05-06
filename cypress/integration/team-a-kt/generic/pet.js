@@ -31,7 +31,6 @@ class Pet {
         cy.get('#day').type(DAY)
         cy.get('#month').type(MONTH)
         cy.get('#year').type(YEAR)
-
     }
 
 }
