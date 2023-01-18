@@ -3,10 +3,9 @@ orbs:
   cypress: cypress-io/cypress@2
 workflows:
   build:
-    jobs:
-      - npm/install:
-          build: 'npm install' # run a custom app build step
+    jobs:          
       - cypress/install:
+          build: 'npm install' # 2023
           build: 'npm run build' # run a custom app build step
       - cypress/run:
           requires:
